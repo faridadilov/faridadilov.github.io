@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+
+  <meta name="google-site-verification" content="-U-UcR8DdVTgySL6dDK7DbAuwX1D4uJGxOAX2FdFELY" />
+
+  <!-- Site-wide font style -->
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      background-color: #f9f7f3; /* light beige background */
+    }
+    
+    .navbar {
+      background-color: #f3efe8 !important; /* slightly darker beige */
+    }
+
+    .navbar a {
+      color: #444 !important; /* dark grey for better readability */
+    }
+
+    .navbar a:hover {
+      color: #000 !important; /* darker on hover */
+    }
+
+    /* Narrower body text area */
+    .container {
+      max-width: 900px; /* narrower than before for more side space */
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    /* Offcanvas menu styling */
+    .offcanvas {
+      background-color: #f9f7f3; /* match background */
+    }
+
+    /* Reduce off-canvas width */
+    .offcanvas.offcanvas-end {
+      width: 250px !important; /* narrower menu */
+    }
+
+    /* Bigger, more spaced-out menu items */
+    .offcanvas-body .nav-link {
+      font-size: 1.2rem;
+      padding: 10px 0;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="navbar navbar-expand-lg navbar-light">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">Aygun Azadova PhD</a>
+
+    <!-- Hamburger button for mobile -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
+      aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Offcanvas menu (right side) -->
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+      aria-labelledby="offcanvasNavbarLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasNavbarLabel"> </h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="research.html">Research</a></li>
+          <li class="nav-item"><a class="nav-link" href="teaching.html">Teaching</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<!-- Page Content -->
+<div class="container mt-4">
+  {{ content }}
+</div>
+
+<!-- Bootstrap JS (needed for offcanvas menu) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+
+<!-- Mobile font size fix: placed last so it overrides everything -->
+<style>
+@media (max-width: 768px) {
+  html body .container * {
+    font-size: 20px !important; /* Bigger text everywhere */
+    line-height: 1.9 !important;
+  }
+  html body .container h1 {
+    font-size: 2.5rem !important;
+  }
+  html body .container h2 {
+    font-size: 2.1rem !important;
+  }
+  html body .container h3 {
+    font-size: 1.7rem !important;
+  }
+}
+  
+</style>
+
+</body>
+</html>
