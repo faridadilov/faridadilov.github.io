@@ -20,7 +20,7 @@
 + High-level meeting of UN General Assembly \textit{(attendee)}, “Twenty-fifth anniversary of the Convention on the rights of the Child”, New York, USA (Nov, 2014).
 
 **_Awards_**
-+ Three Minute Thesis Competition, University of Essex - People’s Choice Winner (2024)
++ Three Minute Thesis Competition, University of Essex – People’s Choice Winner (2024)
 + Study UK Alumni Awards, British Council – Finalist (2021)
   
  &nbsp;  <!-- This creates a blank space -->
