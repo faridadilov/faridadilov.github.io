@@ -2,11 +2,11 @@
 # Welcome to my personal website
 
 
-Currently, I pursue a PhD in Sociology at the University of Essex, UK. My research explores the impact of women members of parliament on women-friendly policies addressing domestic violence, reproductive rights and health, early marriage, and parental leave.
+Currently, I pursue a _PhD in Sociology at the University of Essex, UK._ My research explores the impact of women members of parliament on women-friendly policies addressing _domestic violence, reproductive rights and health, early marriage, and parental leave._
 
 My research interests entail women’s political representation, gender and public policy, and gender equality policies. I have a professional background in developing women and child-friendly policies, programmes that address a wide range of issues to strengthen the protection of women and children’s rights. I previously served as a member of the Gender Equality Commission of the Council of Europe (2021-2023) and as a Resident Twinning Adviser Counterpart, managing a project to strengthen referral mechanisms for providing safety and support for victims of domestic violence in Azerbaijan. 
 
-I recently completed a Postgraduate Certificate in Higher Education Practice (Module 1) and gained professional recognition as a Fellow of the Higher Education Academy (FHEA). I earned my MA in International Politics (Globalization, Poverty and Development) from Newcastle University.
+I recently completed a _Postgraduate Certificate in Higher Education Practice (Module 1)_ and gained professional recognition as a _Fellow of the Higher Education Academy (FHEA)._ I received my MA in International Politics (Globalization, Poverty and Development) from Newcastle University.
 
 
 
