@@ -9,24 +9,18 @@ My research interests entail women’s political representation, gender and publ
 I recently completed a _Postgraduate Certificate in Higher Education Practice (Module 1)_ and gained professional recognition as a _Fellow of the Higher Education Academy (FHEA)._ I received my MA in International Politics (Globalization, Poverty and Development) from Newcastle University.
 
 
-
 ## Publications 
 
-Azadova, A., Ekperuoh, A., Brooke, G.N. and Marco, A., 2024. Analysis of coding gene expression from small RNA sequencing. bioRxiv, pp.2024-06.
+•	Adilov, F. (2024). Analysis on how women's participation in parliament affects policies in favour of women, online (in Azerbaijani), Azertag News Agency [Accessed 23 May 2025]
 
-Cronin, R., Azadova, A., Marco, A., Laissue, P.P., Brooke, G.N. and Prischi, F., 2024. The p90 Ribosomal S6 Kinases 2 and 4 promote Prostate Cancer cell proliferation in androgen-dependent and independent ways. bioRxiv, pp.2024-03.
+•	Adilov, F. and Nadirov, O. (2020). ‘How does the number of women in Parliament impact the laws affecting women?’[Accessed 11 May 2020]
 
-Brooke, G., Culley, R., Leach, D., Latonen, L., Rees, E., Alkheilewi, M., Pine, A., Fioretti, F., Reader, C., Azadova, A. and Powell, S., 2025. Disruption of androgen receptor-cofactor interactions by the RNA-binding protein FUS/TLS alters androgen signalling in prostate cancer.
+•	Adilov, F. (2020). ‘Children Rights, Legislation and Parental Responsibility: What Should We Know?’[Accessed 25 August 2020]
 
-Azadova, A., Brooke, G.N. and Marco, A., 2024. Abstract LB335: Steroid receptor cross-talk in breast cancer. _Cancer Research_, 84(7_Supplement), pp.LB335-LB335.
+•	Adilov, F. (2018). ‘Do developed countries have a duty to assist the global poor?’
+http://top-center.org/essays/593-do-developed-countries-have-a-duty-to-assist-the-global-poor.html [Accessed 24 October 2018]
 
-Allafi A., Rees E., Khalaj R., Azadova A., Mohr A., Zwazka R., Laissue P., Brooke, G.N. "Inhibition of porphyrin synthesis selectively sensitises prostate cancer cells to ROS damage and promotes caspase-independent cell death".
 
-Azadova A., Brooke, G.N., Isayev O. "Oestrogen regulation of Notch signalling pathway in breast cancer".
-
-Azadova A., Brooke, G.N., Antonio Marco "The role of Oestrogen Receptor-𝛼 (ER𝛼) crosstalk with Mineralocorticoid Receptor in breast cancer".
-
-Azadova A., Adilov F. and Allen-Baumen V. "Technology-enabled feedback in Higher Education".
 
 &nbsp;  <!-- This creates a blank space -->
 
@@ -34,7 +28,7 @@ Azadova A., Adilov F. and Allen-Baumen V. "Technology-enabled feedback in Higher
 
 <div style="margin-top: 40px; font-size: 14px; color: #555;">
   <p>
-    © 2025 Aygun Azadova. All rights reserved.
+    © 2025 Farid Adilov. All rights reserved.
     <span style="float: right;">
       <a href="https://www.linkedin.com/in/aygunazadova/" target="_blank" style="color: black; text-decoration: none;">LinkedIn</a>
     </span>
