@@ -30,7 +30,7 @@ http://top-center.org/essays/593-do-developed-countries-have-a-duty-to-assist-th
   <p>
     © 2025 Farid Adilov. All rights reserved.
     <span style="float: right;">
-      <a href="[https://www.linkedin.com/in/aygunazadova/](https://www.linkedin.com/in/faridadilov/)" target="_blank" style="color: black; text-decoration: none;">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/faridadilov/" target="_blank" style="color: black; text-decoration: none;">LinkedIn</a>
     </span>
   </p>
 </div>
