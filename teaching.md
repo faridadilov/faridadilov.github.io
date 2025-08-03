@@ -12,7 +12,7 @@
 2014)**
 + Taught UG courses on “International Organisations” and “History of Asian and African Countries”.
 
-## Publications in Education
+## Publication in Education
 
 Azadova A., Adilov F. and Allen-Baumen V. "Technology-enabled feedback in Higher Education". (Working paper) 
 
