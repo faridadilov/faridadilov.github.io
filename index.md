@@ -11,7 +11,7 @@ I recently completed a _Postgraduate Certificate in Higher Education Practice (M
 
 ## Publications 
 
-•	Adilov, F. (2024). Analysis on how women's participation in parliament affects policies in favour of women, online (in Azerbaijani), Azertag News Agency [Accessed 23 May 2025]
+•	Adilov, F. (2024). Analysis on how women's participation in parliament affects policies in favour of women, online (in Azerbaijani), https://azertag.az/xeber/parlamentde_qadinlarin_temsilchiliyi_artdiqca_verilen_qerarlar_hansi_istiqametde_deyisir___arasdirma-2867917, Azertag News Agency [Accessed 23 May 2025]
 
 •	Adilov, F. and Nadirov, O. (2020). ‘How does the number of women in Parliament impact the laws affecting women?’[Accessed 11 May 2020]
 
