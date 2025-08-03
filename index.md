@@ -1,12 +1,17 @@
 
 # Welcome to my personal website
 
+I am pursuing a _PhD in Sociology at the University of Essex, UK._ My research explores the impact of female members of parliament on women-friendly policies addressing domestic violence, reproductive rights and health, early marriage, and parental leave.
 
-Currently, I pursue a _PhD in Sociology at the University of Essex, UK._ My research explores the impact of women members of parliament on women-friendly policies addressing _domestic violence, reproductive rights and health, early marriage, and parental leave._
+My research interests include women’s political representation, gender and public policy, and gender equality policies. 
 
-My research interests entail women’s political representation, gender and public policy, and gender equality policies. I have a professional background in developing women and child-friendly policies, programmes that address a wide range of issues to strengthen the protection of women and children’s rights. I previously served as a member of the Gender Equality Commission of the Council of Europe (2021-2023) and as a Resident Twinning Adviser Counterpart, managing a project to strengthen referral mechanisms for providing safety and support for victims of domestic violence in Azerbaijan. 
+Before embarking on my PhD studies in 2023, I worked for nearly a decade as a civil servant at the State Committee for Family, Women and Children Affairs, Republic of Azerbaijan. During this time, I held various positions, including senior adviser, assistant to the Chairperson, and head of the International Relations Department.
 
-I recently completed a _Postgraduate Certificate in Higher Education Practice (Module 1)_ and gained professional recognition as a _Fellow of the Higher Education Academy (FHEA)._ I received my MA in International Politics (Globalization, Poverty and Development) from Newcastle University.
+I have extensive professional experience in developing women and child-friendly policies and programmes addressing a wide range of issues aimed at strengthening the protection of women’s and children’s rights.
+
+From 2021 to 2023, I served as a member of the Gender Equality Commission of the Council of Europe. I also acted as the Resident Twinning Adviser Counterpart for a project to strengthen referral mechanisms to provide safety and support for victims of domestic violence in Azerbaijan.
+
+I recently completed a _Postgraduate Certificate in Higher Education Practice (Module 1)_ and gained professional recognition as a _Fellow of the Higher Education Academy (FHEA)._ I hold an MA in International Politics (Globalization, Poverty and Development) from Newcastle University.
 
 
 ## Publications 
