@@ -2,11 +2,10 @@
 
 **_Interests_**
 
-+ Gender and Politics, women's political representation, gender and public policy, gender equality polciies
++ Gender and Politics, women's political representation, gender and public policy, gender equality policies
  
 **_Conferences_**
 
-Projects:
 + Political Studies Association Annual Conference “What Next?”, Birmingham, UK (April, 2025).
 + Expanding Imaginations, 60th Anniversary Conference of the Department of Sociology, Colchester, UK ( Sep, 2025).
 + PGR Conference, University of Essex, Colchester, UK ( May, 2025).
@@ -26,9 +25,9 @@ Projects:
 
 <div style="margin-top: 40px; font-size: 14px; color: #555;">
   <p>
-    © 2025 Aygun Azadova. All rights reserved.
+    © 2025 Farid Adilov. All rights reserved.
     <span style="float: right;">
-      <a href="https://www.linkedin.com/in/aygunazadova/" target="_blank" style="color: black; text-decoration: none;">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/faridadilov/" target="_blank" style="color: black; text-decoration: none;">LinkedIn</a>
     </span>
   </p>
 </div>
