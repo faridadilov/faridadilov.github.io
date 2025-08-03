@@ -1,6 +1,6 @@
 ## Research Experience 
 
-**Interests**
+**_Interests_**
 
 + Gender and Politics, women's political representation, gender and public policy, gender equality polciies
  
