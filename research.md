@@ -7,21 +7,21 @@
 **_Conferences_**
 
 + Political Studies Association Annual Conference “What Next?”, Birmingham, UK (April, 2025).
-+ Expanding Imaginations, 60th Anniversary Conference of the Department of Sociology, Colchester, UK ( Sep, 2025).
-+ PGR Conference, University of Essex, Colchester, UK ( May, 2025).
++ Expanding Imaginations, 60th Anniversary Conference of the Department of Sociology, Colchester, UK (Sep, 2025).
++ PGR Conference, University of Essex, Colchester, UK (May, 2025).
 
  **_Policy-Oriented Conferences_**
-+ Beijing 30+ Regional Review Meeting, Geneva, Switzerland ( Oct, 2025).
++ Beijing 30+ Regional Review Meeting, Geneva, Switzerland (Oct, 2025).
 + Prevention of Domestic Violence: Opportunities and Perspectives, Baku, Azerbaijan (Dec, 2024).
 + 22nd meeting of the Council of Europe Gender Equality Commission, Strasbourg, France (Nov, 2022).
 + 21st meeting of the Council of Europe Gender Equality Commission, Strasbourg, France (May. 2022).
 + “EU 4 Gender Equality: Together Against Gender Stereotypes and Gender-Based Violence" Partners Meeting, UN Women & UNFPA, Istanbul, Türkiye (July, 2022).
 + “Best Interests of the Child", Council of Europe, Brussels, Belgium (Dec, 2014).
-+ High-level meeting of UN General Assembly \textit{(attendee)}, “Twenty-fifth anniversary of the Convention on the rights of the Child”, New York, USA (Nov, 2014).
++ High-level meeting of UN General Assembly _(attendee)_, “Twenty-fifth anniversary of the Convention on the rights of the Child”, New York, USA (Nov, 2014).
 
 **_Awards_**
-+ Three Minute Thesis Competition, University of Essex – People’s Choice Winner (2024)
-+ Study UK Alumni Awards, British Council – Finalist (2021)
++ Three Minute Thesis Competition, University of Essex – _People’s Choice Winner_ (2024)
++ Study UK Alumni Awards, British Council – _Finalist_ (2021)
   
  &nbsp;  <!-- This creates a blank space -->
  
