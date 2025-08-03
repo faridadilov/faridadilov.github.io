@@ -1,16 +1,24 @@
 ## Research Experience 
 
-**Honorary Fellow at the School of Life Sciences Department, Essex University, Aug 2025-present**
+**Interests**
+
++ Gender and Politics, women's political representation, gender and public policy, gender equality polciies
+ 
+**Conferences**
 
 Projects:
-+ The p90 Ribosomal S6 Kinases 2 and 4 promote Prostate Cancer cell proliferation in androgen-dependent and independent ways
-+ Disruption of androgen receptor-cofactor interactions by the RNA-binding protein FUS/TLS alters androgen signalling in prostate cancer
-+ Inhibition of porphyrin synthesis selectively sensitises prostate cancer cells to ROS damage and promotes caspase-independent cell death
-  
-**Specialist Technician at the School of Life Sciences Department, Essex University, May 2023-Jul 2023**
++ Political Studies Association Annual Conference “What Next?”, Birmingham, UK (April, 2025).\\
++ Expanding Imaginations, 60th Anniversary Conference of the Department of Sociology, Colchester, UK ( Sep, 2025) \\
++ PGR Conference, University of Essex, Colchester, UK ( May, 2025).
 
-Projects:
-+ Analysis of coding gene expression from small RNA sequencing
+ **Policy-Oriented Conferences**
++ Beijing 30+ Regional Review Meeting, Geneva, Switzerland ( Oct, 2025). \\
++ Prevention of Domestic Violence: Opportunities and Perspectives, Baku, Azerbaijan (Dec, 2024). \\
++ 22nd meeting of the Council of Europe Gender Equality Commission, Strasbourg, France (Nov, 2022). \\
++ 21st meeting of the Council of Europe Gender Equality Commission, Strasbourg, France (May. 2022). \\
++ “EU 4 Gender Equality: Together Against Gender Stereotypes and Gender-Based Violence" Partners Meeting, UN Women \& UNFPA, Istanbul, Türkiye (July, 2022). \\
++ “Best Interests of the Child", Council of Europe, Brussels, Belgium (Dec, 2014). \\
++ High-level meeting of UN General Assembly \textit{(attendee)}, “Twenty-fifth anniversary of the Convention on the rights of the Child”, New York, USA (Nov, 2014).
  
 ## Publications 
 
