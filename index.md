@@ -20,7 +20,6 @@ I recently completed a _Postgraduate Certificate in Higher Education Practice (M
 •	Adilov, F. (2018). ‘Do developed countries have a duty to assist the global poor?’[Accessed 24 October 2018]
 
 
-
 &nbsp;  <!-- This creates a blank space -->
 
 ---
