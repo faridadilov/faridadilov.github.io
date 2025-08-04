@@ -4,7 +4,7 @@
 + Postgraduate Certificate in Higher Education Practice (PG CHEP) (Module 1) 2025
 + Fellow of the Higher Education Academy (FHEA) 2024
   
-## Teaching Experience
+### Teaching Experience
 
 **Assistant Lecturer at Sociology and Criminology Department, University of Essex, 2024-2025**
 
@@ -12,7 +12,7 @@
 2014)**
 + Taught UG courses on “International Organisations” and “History of Asian and African Countries”.
 
-## Publication in Education
+### Publication in Education
 
 Azadova A., Adilov F. and Allen-Baumen V. "Technology-enabled feedback in Higher Education". (Working paper) 
 
