@@ -6,10 +6,10 @@
   
 ### Teaching Experience
 
-**Assistant Lecturer at Sociology and Criminology Department, University of Essex, 2024-2025**
+Assistant Lecturer at Sociology and Criminology Department, University of Essex, 2024-2025
 
-**Lecturer/Module Leader, Faculty of International Relations and International Law, Baku State University (2011-
-2014)**
+Lecturer/Module Leader, Faculty of International Relations and International Law, Baku State University (2011-
+2014)
 + Taught UG courses on “International Organisations” and “History of Asian and African Countries”.
 
 ### Publication in Education
