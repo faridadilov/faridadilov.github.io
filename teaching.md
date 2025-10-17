@@ -6,7 +6,8 @@
   
 ### Teaching Experience
 
-_Assistant Lecturer at Sociology and Criminology Department, University of Essex, 2024-2025_
+_Assistant Lecturer at Sociology and Criminology Department, University of Essex, 2024-present_
++ Teach UG module SC104: Introduction to Crime, Law and Society 
 
 _Lecturer/Module Leader, Faculty of International Relations and International Law, Baku State University (2011-
 2014)_
