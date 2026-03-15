@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Farid Adilov</title>
+  <meta name="google-site-verification" content="5kMbl7w075hDK1-kVu2cb_CP42JcpNNFY-P4nkt_BXg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Libre+Franklin:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .intro-section {
+      display: flex;
+      gap: var(--space-xl);
+      align-items: flex-start;
+      margin-bottom: var(--space-lg);
+    }
+    .profile-photo {
+      width: 185px;
+      min-width: 185px;
+      height: 228px;
+      object-fit: cover;
+      border-radius: 6px;
+      box-shadow: 0 4px 20px rgba(27, 54, 93, 0.12);
+      border: 3px solid var(--color-border-light);
+    }
+    .intro-text h1 {
+      margin-bottom: var(--space-sm);
+    }
+    .intro-subtitle {
+      font-family: var(--font-body);
+      font-size: 0.82rem;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--color-blue);
+      margin-bottom: 0.6rem;
+    }
+    @media (max-width: 768px) {
+      .intro-section {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: var(--space-md);
+      }
+      .profile-photo {
+        width: 155px;
+        min-width: 155px;
+        height: 190px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="top-rule" aria-hidden="true"></div>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-name" href="index.html">Farid Adilov</a>
+    <button class="menu-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('active'); document.querySelector('.site-nav').classList.toggle('open');">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav">
+      <a href="index.html">Home</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+    </nav>
+  </div>
+</header>
+
+<main class="site-main">
+
+  <div class="intro-section">
+    <img class="profile-photo" src="picture_Farid_Adilov.png" alt="Farid Adilov">
+    <div class="intro-text">
+      <div class="intro-subtitle">PhD Candidate in Sociology</div>
+      <h1>Welcome to my personal website</h1>
+      <p>I am pursuing a <em>PhD in Sociology at the University of Essex, UK.</em> My research explores the impact of female members of parliament on women-friendly policies addressing domestic violence, reproductive rights and health, early marriage, and parental leave.</p>
+      <p>My research interests include women's political representation, gender and public policy, and gender equality policies.</p>
+    </div>
+  </div>
+
+  <p>Before embarking on my PhD studies in 2023, I worked for nearly a decade as a civil servant at the State Committee for Family, Women and Children Affairs, Republic of Azerbaijan. During this time, I held various positions, including senior adviser, assistant to the Chairperson, and head of the International Relations Department.</p>
+
+  <p>I have extensive professional experience in developing women and child-friendly policies and programmes addressing a wide range of issues aimed at strengthening the protection of women's and children's rights.</p>
+
+  <p>From 2021 to 2023, I served as a member of the Gender Equality Commission of the Council of Europe. I also acted as the Resident Twinning Adviser Counterpart for a project to strengthen referral mechanisms to provide safety and support for victims of domestic violence in Azerbaijan.</p>
+
+  <p>I recently completed a <em>Postgraduate Certificate in Higher Education Practice (Module 1)</em> and gained professional recognition as a <em>Fellow of the Higher Education Academy (FHEA).</em> I hold an MA in International Politics (Globalization, Poverty and Development) from Newcastle University.</p>
+
+  <h2>Publications</h2>
+
+  <ul>
+    <li>Adilov, F. (2024). Analysis on how women's participation in parliament affects policies in favour of women, online (in Azerbaijani), Azertag News Agency [Accessed 23 May 2025]</li>
+    <li>Adilov, F. and Nadirov, O. (2020). 'How does the number of women in Parliament impact the laws affecting women?' [Accessed 11 May 2020]</li>
+    <li>Adilov, F. (2020). 'Children Rights, Legislation and Parental Responsibility: What Should We Know?' [Accessed 25 August 2020]</li>
+    <li>Adilov, F. (2018). 'Do developed countries have a duty to assist the global poor?' [Accessed 24 October 2018]</li>
+  </ul>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span>&copy; 2025 Farid Adilov</span>
+    <div class="footer-links">
+      <a href="https://www.linkedin.com/in/faridadilov/" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+  </div>
+</footer>
+
+<script src="main.js"></script>
+</body>
+</html>
