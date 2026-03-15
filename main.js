@@ -2,6 +2,10 @@
 (function () {
   'use strict';
 
+  /* Dynamic copyright year */
+  const yearEl = document.getElementById('year');
+  if (yearEl) yearEl.textContent = new Date().getFullYear();
+
 
   const currentPage = location.pathname.split('/').pop() || 'index.html';
   document.querySelectorAll('.site-nav a').forEach(link => {
